@@ -14,14 +14,14 @@
     flex-direction: column;
 
     @media (width >= 1024px) {
-      justify-content: space-between;
-      flex-direction: row;
+      justify-content: center;
     }
   }
 
   .landing--intro {
     h1 {
       font-size: 1.5rem;
+      font-weight: 100;
       margin-bottom: 0;
     }
 
